@@ -43,4 +43,7 @@ sin Normalizar
 ![Alt text](Modelo_Racional.png)
 
 Normalizada
-![Alt text](Racional.png)
+![Alt text](FINAL.png)
+
+[https://drive.google.com/file/d/1__QhUGSpAAMue1Zy58OhduObHOYstRHk/view?usp=drive_link]: 	" Digrama Racional"
+
