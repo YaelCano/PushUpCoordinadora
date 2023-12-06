@@ -28,3 +28,7 @@ servicios externos.
 - [ ] Normalice la base de datos hasta la 4FN.
 
 ![Alt text](<modelo fisico.png>)
+
+![Alt text](PushUp_database.drawio-1.png)
+
+![Alt text](Diagrama.drawio-1.png)
