@@ -27,8 +27,20 @@ servicios externos.
 - [ ] Elabore el Diagrama lógico, físico y Diagrama Relacional.
 - [ ] Normalice la base de datos hasta la 4FN.
 
-
+## Diagrama Lógico
 
 ![Alt text](PushUp_database.drawio-1.png)
 
+## Diagrama Físico
+
+
+
 ![Alt text](Diagrama.drawio-1.png)
+
+## Diagrama Racional
+sin Normalizar
+
+![Alt text](Modelo_Racional.png)
+
+Normalizada
+![Alt text](Racional.png)
